@@ -1,0 +1,33 @@
+_repo: Concord-Days_46209
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46209-h/images/cover-full.jpg
+creator:
+  author:
+    agent_name: Alcott, Amos Bronson
+    aliases:
+    - Alcott, Bronson
+    - Alcott, A. Bronson (Amos Bronson)
+    - Alcox, Amos Bronson
+    - Alcocke, Amos Bronson
+    birthdate: 1799
+    deathdate: 1888
+    gutenberg_agent_id: '38495'
+    url: http://www.gutenberg.org/2009/agents/38495
+    wikipedia: https://en.wikipedia.org/wiki/Amos_Bronson_Alcott
+description: ''
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46209'
+  lccn: 04013874
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Concord (Mass.) -- Social life and customs'
+- !lcc 'PS'
+title: Concord Days
+url: http://www.gutenberg.org/ebooks/46209
