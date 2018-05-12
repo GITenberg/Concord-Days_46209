@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38495
     wikipedia: https://en.wikipedia.org/wiki/Amos_Bronson_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46209#Concord-Days
 gutenberg_issued: '2014-07-07'
 gutenberg_type: Text
 identifiers:
